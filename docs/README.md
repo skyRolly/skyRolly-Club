@@ -41,15 +41,13 @@ skyRolly Club 非常注重游戏体验，基于独立高端Minecraft服务器开
 
 **服务器所有者**: skyRolly
 
-Mail: skyrolly@qq.com *(7x24h)*, admin@skyrolly.club *(工作时间&sup2;)*
-
-QQ: skyrolly@foxmail.com *(1075985994)*
+```Mail: skyrolly@qq.com *(7x24h)*, admin@skyrolly.club *(工作时间&sup2;)*
+QQ: skyrolly@foxmail.com *(1075985994)*```
 
 **服务器管理员**: ZDN1942
 
-QQ: 2477017738
-
-Mail: 2477017738@qq.com
+```QQ: 2477017738
+Mail: 2477017738@qq.com```
 
 *为确保您能收到我们的回复，请在您使用的邮箱中将 admin@skyrolly.club 加入通讯录。*
 
