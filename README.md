@@ -1,17 +1,18 @@
 # skyRolly Club
 
->####《空岛传说》拍摄组官方唯一指定Minecraft服务器
-期待您的参与，共同打造和谐的游戏环境
+>《空岛传说》拍摄组官方唯一指定Minecraft服务器
 
 ### 服务器信息
 
 服务器名称: `skyRolly Club`
+
 地址: **`skyrolly.club:25565`**
+
 推荐版本: `1.12.2`
 
 ### 请支持正版
 
-[官方网站 | Minecraft](http://minecraft.net/)
+[Minecraft 官方网站](http://minecraft.net/)
 
 ### 同我们一起打造你的Minecraft多人联机乐趣
 在信息爆炸的年代，我们不愿成为知识的过客，接受各种玩家意见，发挥社区的力量，参与到**skyRolly Club QQ群组&sup1;**获得自我提升。
@@ -39,11 +40,15 @@ skyRolly Club 非常注重游戏体验，基于独立高端Minecraft服务器开
 ### 联系我们
 
 **服务器所有者**: skyRolly
+
 Mail: skyrolly@qq.com *(7x24h)*, admin@skyrolly.club *(工作时间&sup2;)*
+
 QQ: skyrolly@foxmail.com *(1075985994)*
 
 **服务器管理员**: ZDN1942
+
 QQ: 2477017738
+
 Mail: 2477017738@qq.com
 
 *为确保您能收到我们的回复，请在您使用的邮箱中将 admin@skyrolly.club 加入通讯录。*
