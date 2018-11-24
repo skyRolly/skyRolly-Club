@@ -1,0 +1,32 @@
+{
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2018-11-10 14:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2018-11-10 14:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2018-11-10 14:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2018-11-10 14:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "desert": "2018-11-10 14:49:17 +0000"
+    },
+    "done": false
+  }
+}

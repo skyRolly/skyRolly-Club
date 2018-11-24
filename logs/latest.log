@@ -1,0 +1,65 @@
+[10:18:44] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[10:18:44] [Server thread/INFO]: Loading properties
+[10:18:45] [Server thread/INFO]: Default game type: SURVIVAL
+[10:18:45] [Server thread/INFO]: Generating keypair
+[10:18:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:18:49] [Server thread/INFO]: Using epoll channel type
+[10:18:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:18:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:18:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:18:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:18:50] [Server thread/INFO]: Preparing level "world"
+[10:18:52] [Server thread/INFO]: Loaded 488 advancements
+[10:18:52] [Server thread/INFO]: Preparing start region for level 0
+[10:18:53] [Server thread/INFO]: Preparing spawn area: 0%
+[10:18:54] [Server thread/INFO]: Preparing spawn area: 1%
+[10:18:55] [Server thread/INFO]: Preparing spawn area: 8%
+[10:18:57] [Server thread/INFO]: Preparing spawn area: 11%
+[10:18:58] [Server thread/INFO]: Preparing spawn area: 13%
+[10:18:59] [Server thread/INFO]: Preparing spawn area: 15%
+[10:19:00] [Server thread/INFO]: Preparing spawn area: 18%
+[10:19:01] [Server thread/INFO]: Preparing spawn area: 22%
+[10:19:02] [Server thread/INFO]: Preparing spawn area: 25%
+[10:19:03] [Server thread/INFO]: Preparing spawn area: 29%
+[10:19:04] [Server thread/INFO]: Preparing spawn area: 30%
+[10:19:05] [Server thread/INFO]: Preparing spawn area: 32%
+[10:19:06] [Server thread/INFO]: Preparing spawn area: 36%
+[10:19:08] [Server thread/INFO]: Preparing spawn area: 38%
+[10:19:09] [Server thread/INFO]: Preparing spawn area: 41%
+[10:19:10] [Server thread/INFO]: Preparing spawn area: 42%
+[10:19:11] [Server thread/INFO]: Preparing spawn area: 45%
+[10:19:12] [Server thread/INFO]: Preparing spawn area: 47%
+[10:19:14] [Server thread/INFO]: Preparing spawn area: 49%
+[10:19:15] [Server thread/INFO]: Preparing spawn area: 50%
+[10:19:16] [Server thread/INFO]: Preparing spawn area: 53%
+[10:19:18] [Server thread/INFO]: Preparing spawn area: 54%
+[10:19:19] [Server thread/INFO]: Preparing spawn area: 56%
+[10:19:21] [Server thread/INFO]: Preparing spawn area: 59%
+[10:19:22] [Server thread/INFO]: Preparing spawn area: 62%
+[10:19:23] [Server thread/INFO]: Preparing spawn area: 64%
+[10:19:24] [Server thread/INFO]: Preparing spawn area: 67%
+[10:19:25] [Server thread/INFO]: Preparing spawn area: 70%
+[10:19:37] [Server thread/INFO]: Preparing spawn area: 71%
+[10:19:38] [Server thread/INFO]: Preparing spawn area: 74%
+[10:19:40] [Server thread/INFO]: Preparing spawn area: 74%
+[10:19:41] [Server thread/INFO]: Preparing spawn area: 75%
+[10:19:42] [Server thread/INFO]: Preparing spawn area: 77%
+[10:19:43] [Server thread/INFO]: Preparing spawn area: 78%
+[10:19:44] [Server thread/INFO]: Preparing spawn area: 83%
+[10:19:45] [Server thread/INFO]: Preparing spawn area: 84%
+[10:19:46] [Server thread/INFO]: Preparing spawn area: 86%
+[10:19:47] [Server thread/INFO]: Preparing spawn area: 87%
+[10:19:49] [Server thread/INFO]: Preparing spawn area: 89%
+[10:19:50] [Server thread/INFO]: Preparing spawn area: 90%
+[10:19:51] [Server thread/INFO]: Preparing spawn area: 91%
+[10:19:53] [Server thread/INFO]: Preparing spawn area: 92%
+[10:19:54] [Server thread/INFO]: Preparing spawn area: 93%
+[10:19:55] [Server thread/INFO]: Preparing spawn area: 96%
+[10:19:56] [Server thread/INFO]: Preparing spawn area: 97%
+[10:19:57] [Server thread/INFO]: Preparing spawn area: 98%
+[10:19:58] [Server thread/INFO]: Done (68.184s)! For help, type "help" or "?"
+[10:19:58] [Server thread/INFO]: Starting GS4 status listener
+[10:19:58] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[10:20:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14115ms behind, skipping 282 tick(s)
+[10:21:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9188ms behind, skipping 183 tick(s)
+[10:24:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6133ms behind, skipping 122 tick(s)
