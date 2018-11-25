@@ -1,6 +1,6 @@
 # skyRolly Club
 
->《空岛传说》拍摄组官方唯一指定Minecraft服务器
+>《空岛传说》拍摄团队官方唯一指定Minecraft服务器
 
 ### 服务器信息
 
@@ -39,7 +39,7 @@ skyRolly Club 非常注重游戏体验，基于独立高端Minecraft服务器开
 
 ### 关于我们
 
-《空岛传说》拍摄组——自发组织的Minecraft专业电影拍摄团队，同时推广Minecraft这款游戏，组建Minecraft专业多人服务器，完善Minecraft多种多样的线上内容。为玩家提供流畅的Minecraft服务器联机体验。
+《空岛传说》拍摄团队——自发组织的Minecraft专业级电影拍摄团队，同时推广Minecraft这款游戏，组建Minecraft专业多人服务器，完善Minecraft多种多样的线上内容。为玩家提供流畅的Minecraft服务器联机体验。
 
 ### 联系我们
 
