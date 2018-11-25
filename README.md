@@ -22,15 +22,19 @@
 ### Let's have some Minecraft，期待和你一起去实现!
 
 - 为交流而生
+
 skyRolly Club 鼓励玩家之间进行交流协作，服主会解决问题，且参与到游戏中，本着公平理念，绝不会偏袒任何一个玩家。在游戏过程中也不会干预玩家的游戏乐趣。
 
 -  纯净原版
+
 skyRolly Club 致力于使每个玩家都体验到原版Minecraft的乐趣，并推广原版Minecraft服务器。在 skyRolly Club 中，你将体验到无模组的真正游戏乐趣。
 
 -  本地化支持
+
 相比国外的Minecraft服务器，skyRolly Club 专注解决中国玩家的问题，针对中国网络进行优化，实现最佳中国玩家游戏效果，为你节省大量游戏时间。
 
 -  轻量级，高性能
+
 skyRolly Club 非常注重游戏体验，基于独立高端Minecraft服务器开发，并使用最先进的技术，使Minecraft联机成为一种享受，让玩家可以高速载入。
 
 ### 关于我们
