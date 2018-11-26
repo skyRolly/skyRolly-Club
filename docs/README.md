@@ -6,7 +6,7 @@
 
 服务器名称: `skyRolly Club`
 
-地址: **`skyrolly.club:25565`**
+地址: **`skyrolly.club`**
 
 推荐版本: `1.12.2`
 
