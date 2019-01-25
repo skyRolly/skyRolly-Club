@@ -65,6 +65,7 @@ Mail: 2477017738@qq.com
 - [skyRolly Visitor System](http://skyrolly.club:666/)
 - [服务器资源监控](http://skyrolly.club:19999/)
 - [服务器管理页面](http://skyrolly.club:5000/)
+- [RollyWiki](http://skyrolly.club:666/mediawiki/)
 
 ------------
 
